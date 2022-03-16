@@ -1,0 +1,7 @@
+{
+  "about": "art",
+  "description": "ArCo is the Knowledge Graph of the Italian Cultural Heritage: it consists of 7 vocabularies describing the cultural heritage domain and data from the General Catalogue of the Italian Ministry of Cultural Heritage and Activities (MiBAC) published as RDF.",
+  "id": "mic/arco@1.2",
+  "name": "ArCo Knowledge Graph",
+  "url": "https://arco.istc.cnr.it/arco-data/1.2/arco-knowledge-graph-1.2.nt.gz"
+}
